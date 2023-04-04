@@ -1,0 +1,14 @@
+{
+   "date": "2023-04-04",
+   "info": {
+      "rate": 1.092909,
+      "timestamp": 1680600902
+   },
+   "query": {
+      "amount": 1,
+      "from": "EUR",
+      "to": "USD"
+   },
+   "result": 1.092909,
+   "success": true
+}
